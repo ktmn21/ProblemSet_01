@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/8cad2d04-7e2a-4607-8818-eb50fcc768d0)
 
 
-### Tash manager
+### Task manager
 #### get
 ![image](https://github.com/user-attachments/assets/2cbf21e2-a8da-46a8-90e8-aff117464fa0)
 
